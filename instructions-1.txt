@@ -1,0 +1,25 @@
+Writing Your Report
+
+Use template.tex for writing your report. Do n't change any other file.
+
+
+In report.tex change the word RoprtTitle in \VAtitle with actual title of your report.
+
+Next, change the word Student in \VAauthor with your name.
+
+Next, change the year 2010 in \VAadmissionyear with your admission year.
+
+Next, change the word nnMSEnnn in \VAregister number with your registration number.
+
+Next, change the word Guide in \VAguide with your guide name.
+
+Next, change the word Program Manager in \VAhod with your Program Chair name.
+
+Next, cange Batch in \VAclass with your bactch number.
+
+Next, in Chapter*{Abstract}, write your abstract.
+
+
+Use https://tobi.oetiker.ch/lshort/lshort.pdf tutorial to learn how to write chapters, sections, subsections, tables, figure, formula etc. 
+
+Ue http://en.wikipedia.org/wiki/BibTeX to make BibTex entry in reference.bib file.

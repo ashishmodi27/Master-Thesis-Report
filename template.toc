@@ -1,0 +1,54 @@
+\contentsline {chapter}{\hskip 1em\relax Declaration}{i}
+\contentsline {chapter}{\hskip 1em\relax Certificate}{i}
+\contentsline {chapter}{\hskip 1em\relax Acknowledgement}{iii}
+\contentsline {chapter}{\hskip 1em\relax Abstract}{iv}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Background}{2}
+\contentsline {section}{\numberline {1.2}Statement}{2}
+\contentsline {section}{\numberline {1.3}Motivation}{2}
+\contentsline {section}{\numberline {1.4}Existing Concept}{2}
+\contentsline {section}{\numberline {1.5}Essence of your approach}{3}
+\contentsline {section}{\numberline {1.6}Objective of the report}{3}
+\contentsline {section}{\numberline {1.7}Aim and Objective}{3}
+\contentsline {chapter}{\numberline {2}Overview / Literature Review }{4}
+\contentsline {section}{\numberline {2.1}Introduction of the problem}{4}
+\contentsline {section}{\numberline {2.2}System Requirements}{4}
+\contentsline {section}{\numberline {2.3}System Planning}{6}
+\contentsline {section}{\numberline {2.4}System Analysis and Design}{7}
+\contentsline {section}{\numberline {2.5}Literature Survey}{8}
+\contentsline {section}{\numberline {2.6}Overview of the System}{10}
+\contentsline {chapter}{\numberline {3}System Design}{11}
+\contentsline {section}{\numberline {3.1}Entity Relationship Diagram}{12}
+\contentsline {section}{\numberline {3.2}Data Flow Diagram}{13}
+\contentsline {subsection}{\numberline {3.2.1}Data Flow Diagram(1)}{13}
+\contentsline {subsection}{\numberline {3.2.2}Data Flow Diagram(2)}{14}
+\contentsline {subsection}{\numberline {3.2.3}Data Flow Diagram(3)}{15}
+\contentsline {subsection}{\numberline {3.2.4}Data Flow Diagram(4)}{16}
+\contentsline {section}{\numberline {3.3}Activity Diagram}{17}
+\contentsline {section}{\numberline {3.4}Sequence Diagram}{18}
+\contentsline {section}{\numberline {3.5}Use Case Model}{19}
+\contentsline {section}{\numberline {3.6}Class Diagram}{20}
+\contentsline {chapter}{\numberline {4}Implementation of System/ Methodology}{21}
+\contentsline {section}{\numberline {4.1}Reason for selecting tool}{21}
+\contentsline {section}{\numberline {4.2}Algorithm}{22}
+\contentsline {section}{\numberline {4.3}Programming Steps}{22}
+\contentsline {section}{\numberline {4.4}Pseudocode}{24}
+\contentsline {section}{\numberline {4.5}Module Description with Snapshots}{25}
+\contentsline {subsection}{\numberline {4.5.1}Homepage}{25}
+\contentsline {subsection}{\numberline {4.5.2}Practice Test}{26}
+\contentsline {subsection}{\numberline {4.5.3}Main Exam}{27}
+\contentsline {subsection}{\numberline {4.5.4}Learn}{28}
+\contentsline {subsection}{\numberline {4.5.5}Search}{29}
+\contentsline {subsection}{\numberline {4.5.6}Game}{31}
+\contentsline {subsection}{\numberline {4.5.7}Result}{33}
+\contentsline {subsection}{\numberline {4.5.8}Solution}{34}
+\contentsline {subsection}{\numberline {4.5.9}History}{35}
+\contentsline {subsection}{\numberline {4.5.10}Extension}{36}
+\contentsline {section}{\numberline {4.6}Test Case}{38}
+\contentsline {chapter}{\numberline {5}Results and Discussions}{39}
+\contentsline {section}{\numberline {5.1}Performance Mertics}{39}
+\contentsline {section}{\numberline {5.2}Algorithm}{40}
+\contentsline {section}{\numberline {5.3}Analysis}{41}
+\contentsline {chapter}{\numberline {6}Conclusion and Future Work}{43}
+\contentsline {section}{\numberline {6.1}Conclusion}{43}
+\contentsline {section}{\numberline {6.2}Future enhancement}{44}

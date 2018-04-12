@@ -1,0 +1,42 @@
+%
+%   Redefining plain page style
+%  
+\fancypagestyle{plain}{%
+\fancyhf{} % clear all header and footer fields
+\fancyhead[L]{{\small \vtitle}}
+\fancyhead[R]{\bf \thepage}
+\fancyfoot[C]{\bfseries \thepage} 
+\fancyfoot[L]%
+{{\scriptsize School of Computing Science and Engineering, 
+VIT Chennai}}
+\fancyfoot[R]%
+{}%
+\fancyfoot[C]{ }%
+\renewcommand{\headrulewidth}{1pt}%
+\renewcommand{\footrulewidth}{0.5pt}%
+}%
+%
+\pagestyle{empty}
+%
+\input{titlepage}
+%
+\clearpage
+\pagenumbering{roman}
+%
+\addcontentsline{toc}{chapter}{\quad Declaration}
+\input{declaration}
+
+%
+
+\addcontentsline{toc}{chapter}{\quad Certificate}
+\input{certificate}
+%
+
+\clearpage
+\pagestyle{plain}
+%
+\addcontentsline{toc}{chapter}{\quad Acknowledgement}
+\input{acknowledgment}
+%
+\clearpage
+%
